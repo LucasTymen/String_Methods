@@ -41,6 +41,8 @@ There are several ways to do this, but one way is to iterate through the list yo
 negative indexing, and .append() to construct the new list.
 Concept Review
 Want to quickly review some of the concepts you’ve been learning? Take a look at this material's cheatsheet!
+https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet
+
 Community Forums
 
 Here are some helpful links to the top questions asked by coders about this exercise:
