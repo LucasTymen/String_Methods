@@ -16,3 +16,6 @@ through green ice in the gutters.
 Drop after drop it falls
 from the withered grass-stems
 of the overhanging embankment."""
+
+spring_storm_lines = spring_storm_text.split('\n')
+print(spring_storm_lines)
