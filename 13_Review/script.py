@@ -10,11 +10,4 @@ highlighted_poems_stripped = []
 for item in highlighted_poems_list:
   highlighted_poems_stripped.append(item.strip())
 
-#print(highlighted_poems_stripped)
-
-highlighted_poems_details = []
-
-for truc in highlighted_poems_stripped:
-  highlighted_poems_details.append(truc.split(":"))
-
-#print(highlighted_poems_details)
+print(highlighted_poems_stripped)
