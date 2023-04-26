@@ -18,3 +18,7 @@ for truc in highlighted_poems_stripped:
   highlighted_poems_details.append(truc.split(":"))
 
 #print(highlighted_poems_details)
+
+titles = []
+poets = []
+dates = []
