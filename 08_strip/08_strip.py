@@ -60,4 +60,6 @@ My list has every letter separated instead of each line?
 
 Still have questions? View this exercise's thread in the Codecademy Forums.
 
+
+concept rewiew (strings) : https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-strings/cheatsheet
 """
